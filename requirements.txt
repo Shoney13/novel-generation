@@ -1,0 +1,5 @@
+langchain_community
+pypdf
+langchain_experimental
+langchain_openai
+openai

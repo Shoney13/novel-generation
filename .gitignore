@@ -1,0 +1,11 @@
+./.conda/*
+./.venv/*
+./venv/*
+PDFs/*.pdf
+!PDFs/pythonlearn.pdf
+.vscode/settings.json
+.env
+fine_tune_data/*.jsonl
+!fine_tune_data/pythonlearn.pdf.jsonl
+.vscode/launch.json
+.DS_Store
