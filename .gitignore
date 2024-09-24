@@ -1,6 +1,6 @@
-./.conda/*
-./.venv/*
-./venv/*
+.conda/*
+.venv/*
+venv/*
 PDFs/*.pdf
 !PDFs/pythonlearn.pdf
 .vscode/settings.json

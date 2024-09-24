@@ -16,7 +16,7 @@ python3 -m venv .venv
 Using conda:
 
 ```bash
-conda create -n myappenv python=3.8
+conda create -n .conda python=3.8
 ```
 
 3. Activate the Virtual Environment:
@@ -36,7 +36,7 @@ For venv on Windows:
 For conda:
 
 ```bash
-conda activate myappenv
+conda activate .conda
 ```
 
 Install Dependencies:
